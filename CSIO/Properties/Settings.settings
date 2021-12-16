@@ -1,0 +1,70 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CSIO.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="databasename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CSIO</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">moitfe_gandaki</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">m01tfe_g@nd@k1</Value>
+    </Setting>
+    <Setting Name="CSIOConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=SERVER;Initial Catalog=CSIO;Persist Security Info=True;User ID=sa&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=SERVER;Initial Catalog=CSIO;Persist Security Info=True;User ID=sa</Value>
+    </Setting>
+    <Setting Name="reportaddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Document\</Value>
+    </Setting>
+    <Setting Name="exdate" GenerateDefaultValueInCode="false" Type="System.DateTime" Scope="Application">
+      <Value Profile="(Default)">2022-04-29</Value>
+    </Setting>
+    <Setting Name="noofdays" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="updatdate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="exint" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="newdatetime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2021-03-31</Value>
+    </Setting>
+    <Setting Name="officeid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">140</Value>
+    </Setting>
+    <Setting Name="csioConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=localhost;user id=root;password=;persistsecurityinfo=True;database=csio&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;MySql.Data.MySqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=localhost;user id=root;password=;persistsecurityinfo=True;database=csio</Value>
+    </Setting>
+    <Setting Name="servername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.100</Value>
+    </Setting>
+    <Setting Name="onlineservername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">151.106.98.138</Value>
+    </Setting>
+    <Setting Name="onlinedatabasename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u872700585_csio</Value>
+    </Setting>
+    <Setting Name="onlineusername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u872700585_csioadmin</Value>
+    </Setting>
+    <Setting Name="onlinepassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T51EJ3*w[</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

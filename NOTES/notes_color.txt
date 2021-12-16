@@ -1,0 +1,18 @@
+form Backcolor = honeydew
+main panel backcolor = 220, 254, 239
+
+other panel backcolor (light) = 189, 253, 240
+other panel backcolor (darker)=powderblue
+
+
+Button backcolor = 200, 240, 230
+button bordercolor = teal
+button flatstyle=flat
+
+Button backcolor = buttonface
+button bordercolor=gray
+button flatstyle=flat
+
+Title :
+Noto Bold 16pt
+color = 0,64,64

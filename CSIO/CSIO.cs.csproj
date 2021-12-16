@@ -1,0 +1,1765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B38B5C1B-9CD8-4D87-97D8-204C374C5016}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSIO</RootNamespace>
+    <AssemblyName>CSIO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Gharelu Project\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>CSIO</ProductName>
+    <PublisherName>ANIL THAPA</PublisherName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <CodeAnalysisRuleSet>CSIO.cs.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>CSIO.cs.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CSIO.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FD6044E82277726CEE0FAFBE14BFA0F2C0E8B39C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CSIO_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>homelogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>CSIO.cs.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>CSIO.cs.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\Data_ENTRY_Mukhyamantri\Data_Entry_Industry_Setup\program files\ANIL\Industry_Entry\AxShockwaveFlashObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="crdb_adoplus, Version=11.5.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\CSIO_MYSQL\CSIO\bin\Debug\crdb_adoplus.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\ANIL\Downloads\CrystalDecisions.CrystalReports.Design\CrystalDecisions.CrystalReports.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>D:\INDUSTRY MINISTRY PROJECT\CSIO_Project_Working\Interop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>C:\Users\DELL\Desktop\MetroDll\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.MSProject, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\VisualBasic.PowerPacks.Vs.1.0.0\lib\Microsoft.VisualBasic.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\VisualBasic.PowerPacks.Vs.1.0.0\lib\Microsoft.VisualBasic.PowerPacks.Vs.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.27.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.27\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlBackup.1.0.1\lib\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.27\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.27\lib\net452\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adduser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adduser.Designer.cs">
+      <DependentUpon>adduser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="backscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backscreen.Designer.cs">
+      <DependentUpon>backscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="backupdatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backupdatabase.Designer.cs">
+      <DependentUpon>backupdatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyabranchadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyabranchadd.Designer.cs">
+      <DependentUpon>banijyabranchadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyacertdetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyacertdetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="banijyacertowner.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyacertowner.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="banijyacloseletter.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyacloseletter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="banijyafirmclose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyafirmclose.Designer.cs">
+      <DependentUpon>banijyafirmclose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyafirmcloseconn.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyafirmcloseconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="banijyafirmcloseletterview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyafirmcloseletterview.Designer.cs">
+      <DependentUpon>banijyafirmcloseletterview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyafirmclosesearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyafirmclosesearch.Designer.cs">
+      <DependentUpon>banijyafirmclosesearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyafirmrenew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyafirmrenew.Designer.cs">
+      <DependentUpon>banijyafirmrenew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyaform.Designer.cs">
+      <DependentUpon>banijyaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyaforminfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyaforminfo.Designer.cs">
+      <DependentUpon>banijyaforminfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyaletter.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyaletter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="banijyaletterowner.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyaletterowner.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="banijyaletterview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyaletterview.Designer.cs">
+      <DependentUpon>banijyaletterview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyanamsari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyanamsari.Designer.cs">
+      <DependentUpon>banijyanamsari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyareportmonthly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyareportmonthly.Designer.cs">
+      <DependentUpon>banijyareportmonthly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyasamsodhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyasamsodhan.Designer.cs">
+      <DependentUpon>banijyasamsodhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyasamsodhanletterhead.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyasamsodhanletterhead.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="banijyasearchbydate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyasearchbydate.Designer.cs">
+      <DependentUpon>banijyasearchbydate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyasomsodhanletter.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>banijyasomsodhanletter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="banijyasomsodhansearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banijyasomsodhansearch.Designer.cs">
+      <DependentUpon>banijyasomsodhansearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capitalupdatebanijya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capitalupdatebanijya.Designer.cs">
+      <DependentUpon>capitalupdatebanijya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capitalupdatenameindustry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capitalupdatenameindustry.Designer.cs">
+      <DependentUpon>capitalupdatenameindustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changebanijyaaddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changebanijyaaddress.Designer.cs">
+      <DependentUpon>changebanijyaaddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changebanijyaname.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changebanijyaname.Designer.cs">
+      <DependentUpon>changebanijyaname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changeelectriccapacity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changeelectriccapacity.Designer.cs">
+      <DependentUpon>changeelectriccapacity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changeindustryaddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changeindustryaddress.Designer.cs">
+      <DependentUpon>changeindustryaddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changeindustryname.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changeindustryname.Designer.cs">
+      <DependentUpon>changeindustryname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changepassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changepassword.Designer.cs">
+      <DependentUpon>changepassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changescopebanijya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changescopebanijya.Designer.cs">
+      <DependentUpon>changescopebanijya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changescopeindustry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changescopeindustry.Designer.cs">
+      <DependentUpon>changescopeindustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banijyabodartha.cs">
+      <DependentUpon>banijyabodartha.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="banijyasajhedaricertowner.cs">
+      <DependentUpon>banijyasajhedaricertowner.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="banijyasajhedaricertdetail.cs">
+      <DependentUpon>banijyasajhedaricertdetail.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="banijyasajhedariletter.cs">
+      <DependentUpon>banijyasajhedariletter.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="banijyasajhedaricertletterowner.cs">
+      <DependentUpon>banijyasajhedaricertletterowner.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="frmNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotification.Designer.cs">
+      <DependentUpon>frmNotification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryfileupload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryfileupload.designer.cs">
+      <DependentUpon>industryfileupload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryreg_subforms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryreg_subforms.Designer.cs">
+      <DependentUpon>industryreg_subforms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrysomsodhanconn.cs">
+      <DependentUpon>industrysomsodhanconn.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="officebodartha.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>officebodartha.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="officeheaderbanijya.cs">
+      <DependentUpon>officeheaderbanijya.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="MonthlyReportDisplayViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyReportDisplayViewer.Designer.cs">
+      <DependentUpon>MonthlyReportDisplayViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="officemonthlyreport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>officemonthlyreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="renewindustryletter.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>renewindustryletter.rpt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportprintdataset.cs">
+      <DependentUpon>reportprintdataset.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="reportprintdataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportprintdataset.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="sanakhatindustrylagatkatta.cs">
+      <DependentUpon>sanakhatindustrylagatkatta.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="globalfunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="globalfunction.Designer.cs">
+      <DependentUpon>globalfunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrybodartha.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>industrybodartha.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="industryletterup.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>industryletterup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="industryreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryreg.designer.cs">
+      <DependentUpon>industryreg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryreportmonthly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryreportmonthly.Designer.cs">
+      <DependentUpon>industryreportmonthly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrypralireport.cs">
+      <DependentUpon>industrypralireport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="emailtoclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emailtoclient.Designer.cs">
+      <DependentUpon>emailtoclient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="expiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="expiry.Designer.cs">
+      <DependentUpon>expiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="firmclosebanijyaowner.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>firmclosebanijyaowner.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="firmclosebanijyasearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firmclosebanijyasearch.Designer.cs">
+      <DependentUpon>firmclosebanijyasearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryclose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryclose.Designer.cs">
+      <DependentUpon>industryclose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrycloseconn.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>industrycloseconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="industrycloseletterviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industrycloseletterviewer.Designer.cs">
+      <DependentUpon>industrycloseletterviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryclosesearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryclosesearch.Designer.cs">
+      <DependentUpon>industryclosesearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryrenew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryrenew.Designer.cs">
+      <DependentUpon>industryrenew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrysamsodhanviewr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industrysamsodhanviewr.Designer.cs">
+      <DependentUpon>industrysamsodhanviewr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrysearchbydate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industrysearchbydate.Designer.cs">
+      <DependentUpon>industrysearchbydate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrysomsodhanconn.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>industrysomsodhanconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="industrysomsodhanletterviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industrysomsodhanletterviewer.Designer.cs">
+      <DependentUpon>industrysomsodhanletterviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrysomsodhansearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industrysomsodhansearch.Designer.cs">
+      <DependentUpon>industrysomsodhansearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewCertificate.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewCertificate.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="officeheader.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>officeheader.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="pramanpatra.cs">
+      <DependentUpon>pramanpatra.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="previewtestreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="previewtestreport.Designer.cs">
+      <DependentUpon>previewtestreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="restreport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>restreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="global.cs" />
+    <Compile Include="industry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industry.Designer.cs">
+      <DependentUpon>industry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryletterconn.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>industryletterconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="industrynaasari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industrynaasari.Designer.cs">
+      <DependentUpon>industrynaasari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industrynameupdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industrynameupdate.Designer.cs">
+      <DependentUpon>industrynameupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryowner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="industryowner.Designer.cs">
+      <DependentUpon>industryowner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="industryownerrpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>industryownerrpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="letterview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="letterview.Designer.cs">
+      <DependentUpon>letterview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="owendetailbanijya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="owendetailbanijya.Designer.cs">
+      <DependentUpon>owendetailbanijya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ownerindustry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ownerindustry.Designer.cs">
+      <DependentUpon>ownerindustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printcertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printcertificate.Designer.cs">
+      <DependentUpon>printcertificate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="reportdisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportdisplay.Designer.cs">
+      <DependentUpon>reportdisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportviewer.Designer.cs">
+      <DependentUpon>reportviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptcert.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptcert.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="samsodhanrecord.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>samsodhanrecord.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="sanakhatindustry.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sanakhatindustry.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="sanakhatlagatkattapreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sanakhatlagatkattapreview.Designer.cs">
+      <DependentUpon>sanakhatlagatkattapreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sanakhatprintview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sanakhatprintview.Designer.cs">
+      <DependentUpon>sanakhatprintview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchbanijya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchbanijya.Designer.cs">
+      <DependentUpon>searchbanijya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchdetailbanijya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchdetailbanijya.Designer.cs">
+      <DependentUpon>searchdetailbanijya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchindustry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchindustry.Designer.cs">
+      <DependentUpon>searchindustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchindustrydetailbyname.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchindustrydetailbyname.Designer.cs">
+      <DependentUpon>searchindustrydetailbyname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="setupfy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setupfy.Designer.cs">
+      <DependentUpon>setupfy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setup_ain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup_ain.Designer.cs">
+      <DependentUpon>setup_ain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setup_calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup_calendar.Designer.cs">
+      <DependentUpon>setup_calendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setup_remoteserver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup_remoteserver.Designer.cs">
+      <DependentUpon>setup_remoteserver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seup_office.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seup_office.Designer.cs">
+      <DependentUpon>Seup_office.cs</DependentUpon>
+    </Compile>
+    <Compile Include="somsodhanviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="somsodhanviewer.Designer.cs">
+      <DependentUpon>somsodhanviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sqlcon.cs" />
+    <Compile Include="testbanijya.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>testbanijya.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="updatebanijyarecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatebanijyarecord.Designer.cs">
+      <DependentUpon>updatebanijyarecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateindustryrecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateindustryrecord.Designer.cs">
+      <DependentUpon>updateindustryrecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vdcedit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vdcedit.Designer.cs">
+      <DependentUpon>vdcedit.cs</DependentUpon>
+    </Compile>
+    <None Include="Resources\printer_white.png" />
+    <None Include="reportprintdataset.xsc">
+      <DependentUpon>reportprintdataset.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reportprintdataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>reportprintdataset.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reportprintdataset.xss">
+      <DependentUpon>reportprintdataset.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\spinner1.gif" />
+    <None Include="Resources\refresh4_24.png" />
+    <None Include="Resources\x-mark-24.png" />
+    <None Include="Resources\refresh3_24.png" />
+    <None Include="Resources\refresh2_24.png" />
+    <None Include="Resources\red_circle_flat_16.png" />
+    <None Include="Resources\notification_bell_white_16.png" />
+    <None Include="Resources\notification_white_16.png" />
+    <None Include="Resources\home_16.png" />
+    <None Include="Resources\calendar_white_16.png" />
+    <None Include="Resources\database_white_16.png" />
+    <None Include="Resources\sign_out_white_16.png" />
+    <None Include="Resources\user_white_16.png" />
+    <None Include="Resources\lock_white_16.png" />
+    <None Include="Resources\refresh_24.png" />
+    <None Include="Resources\red_circle_64.png" />
+    <None Include="Resources\green_circle.png" />
+    <None Include="Resources\red_circle.png" />
+    <None Include="Resources\calendar_dark_24.png" />
+    <None Include="Resources\calendar_24.png" />
+    <None Include="Resources\database_24.png" />
+    <None Include="Resources\excel-icon-black-16.png" />
+    <None Include="Resources\export_16.png" />
+    <None Include="Resources\house_white_32.png" />
+    <None Include="Resources\industry_white_32x32.png" />
+    <None Include="Resources\settings_white_32x32.png" />
+    <None Include="Resources\user_new_241.png" />
+    <None Include="Resources\calendar21.png" />
+    <None Include="Resources\database_configuration_241.png" />
+    <None Include="Resources\report_icon_white_321.png" />
+    <None Include="Resources\excel_icon_16.png" />
+    <None Include="Resources\folder_24.png" />
+    <None Include="Resources\aim1.png" />
+    <None Include="Resources\101-database1.png" />
+    <None Include="Resources\bell_icon_64.png" />
+    <None Include="Resources\bell_52.png" />
+    <Content Include="Resources\Bitmap1.bmp" />
+    <None Include="Resources\close-button-red_32.png" />
+    <None Include="Resources\close-button-red_24.png" />
+    <None Include="Resources\user_24.png" />
+    <None Include="CSIO.cs.ruleset" />
+    <None Include="Resources\minus.png" />
+    <None Include="Resources\save_icon_2_24.png" />
+    <None Include="Resources\close-button-red1.png" />
+    <None Include="Resources\edit_icon_241.png" />
+    <None Include="Resources\delete_icon_241.png" />
+    <None Include="Resources\edit_icon_24.png" />
+    <None Include="Resources\save_icon_24.png" />
+    <None Include="Resources\delete_icon_24.png" />
+    <None Include="Resources\add_icon_24.png" />
+    <None Include="Resources\certificate_241.png" />
+    <None Include="Resources\certificate_24.png" />
+    <None Include="Resources\document_letter_24.png" />
+    <None Include="Resources\excel_icon_24.png" />
+    <None Include="Resources\report_icon_white_32.png" />
+    <None Include="Resources\add_icon_32.png" />
+    <None Include="Resources\097-download.png" />
+    <None Include="Resources\folder.png" />
+    <None Include="Resources\sakha.png" />
+    <None Include="Resources\shopping-cart.png" />
+    <None Include="Resources\trading.png" />
+    <None Include="Resources\branch.png" />
+    <None Include="Resources\cancel_new24.png" />
+    <None Include="Resources\renewable.png" />
+    <None Include="Resources\zoom.png" />
+    <None Include="Resources\refresh1.png" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\load_download.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\user_delete.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\back.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\user_add1.png" />
+    <None Include="Resources\user_new_24.png" />
+    <None Include="Resources\recycle_bin_24.png" />
+    <None Include="Resources\scanner.png" />
+    <None Include="Resources\money_bag2_32.png" />
+    <None Include="Resources\industry_close_24_2.png" />
+    <None Include="Resources\database_configuration_32.png" />
+    <None Include="Resources\print_24.png" />
+    <None Include="Resources\industry_close_32_2.png" />
+    <None Include="Resources\password_reset_24.png" />
+    <None Include="Resources\password_reset_32.png" />
+    <None Include="Resources\industry_close_24.png" />
+    <None Include="Resources\cancel_icon_24.png" />
+    <None Include="Resources\user_change_24.png" />
+    <None Include="Resources\calendar_circle_24.png" />
+    <None Include="Resources\user_add_group_24_3.png" />
+    <None Include="Resources\user_add_group_24.png" />
+    <None Include="Resources\cancel-icon1.png" />
+    <None Include="Resources\user_add_group_circle.png" />
+    <None Include="Resources\electricity.png" />
+    <None Include="Resources\objective.png" />
+    <None Include="Resources\location_24.png" />
+    <None Include="Resources\money_bag_24.png" />
+    <None Include="Resources\name_sign_24.png" />
+    <None Include="Resources\name_sign.png" />
+    <None Include="Resources\calendar_circle.png" />
+    <None Include="Resources\user_change_circle.png" />
+    <None Include="Resources\user-change1.png" />
+    <None Include="Resources\user_change_161.png" />
+    <None Include="Resources\user_change_16.png" />
+    <None Include="Resources\search3.png" />
+    <None Include="Resources\write-mail.png" />
+    <None Include="Resources\search21.png" />
+    <None Include="Resources\industry-icon2-32.png" />
+    <None Include="Resources\industry-icon-32.png" />
+    <None Include="Resources\file-scan-search32.png" />
+    <None Include="Resources\file_scan_search.png" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\search2.png" />
+    <None Include="Resources\report.png" />
+    <None Include="Resources\certificate.png" />
+    <None Include="Resources\close-button-red.png" />
+    <None Include="Resources\user-add-group-white.png" />
+    <None Include="Resources\user-new-white.png" />
+    <None Include="Resources\user-change-white.png" />
+    <None Include="Resources\user_add_group2.png" />
+    <None Include="Resources\user-change.png" />
+    <None Include="Resources\new-user.png" />
+    <None Include="Resources\delete-icon.png" />
+    <None Include="Resources\cancel-icon.png" />
+    <None Include="Resources\edit-icon.png" />
+    <None Include="Resources\save-icon.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\industry_white.png" />
+    <None Include="Resources\home_orange.png" />
+    <None Include="Resources\hamburger2.png" />
+    <None Include="Resources\hamburger.png" />
+    <None Include="App1.config" />
+    <None Include="Resources\325-circle-left.png" />
+    <None Include="Resources\323-circle-right.png" />
+    <None Include="Resources\industry icon.png" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adduser.resx">
+      <DependentUpon>adduser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="backscreen.resx">
+      <DependentUpon>backscreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="backupdatabase.resx">
+      <DependentUpon>backupdatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyabranchadd.resx">
+      <DependentUpon>banijyabranchadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyacertdetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyacertdetail.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyacertowner.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyacertowner.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyacloseletter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyacloseletter.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyafirmclose.resx">
+      <DependentUpon>banijyafirmclose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyafirmcloseletterview.resx">
+      <DependentUpon>banijyafirmcloseletterview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyafirmclosesearch.resx">
+      <DependentUpon>banijyafirmclosesearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyafirmrenew.resx">
+      <DependentUpon>banijyafirmrenew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyaform.resx">
+      <DependentUpon>banijyaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyaforminfo.resx">
+      <DependentUpon>banijyaforminfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyaletter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <LastGenOutput>banijyaletter.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyaletterowner.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyaletterowner.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Content Include="banijyalettertransfer.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="banijyaletterview.resx">
+      <DependentUpon>banijyaletterview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyanamsari.resx">
+      <DependentUpon>banijyanamsari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyareportmonthly.resx">
+      <DependentUpon>banijyareportmonthly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasamsodhan.resx">
+      <DependentUpon>banijyasamsodhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasamsodhanletterhead.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyasamsodhanletterhead.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasearchbydate.resx">
+      <DependentUpon>banijyasearchbydate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasomsodhanletter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyasomsodhanletter.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasomsodhansearch.resx">
+      <DependentUpon>banijyasomsodhansearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capitalupdatebanijya.resx">
+      <DependentUpon>capitalupdatebanijya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capitalupdatenameindustry.resx">
+      <DependentUpon>capitalupdatenameindustry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changebanijyaaddress.resx">
+      <DependentUpon>changebanijyaaddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changebanijyaname.resx">
+      <DependentUpon>changebanijyaname.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changeelectriccapacity.resx">
+      <DependentUpon>changeelectriccapacity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changeindustryaddress.resx">
+      <DependentUpon>changeindustryaddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changeindustryname.resx">
+      <DependentUpon>changeindustryname.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changepassword.resx">
+      <DependentUpon>changepassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changescopebanijya.resx">
+      <DependentUpon>changescopebanijya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changescopeindustry.resx">
+      <DependentUpon>changescopeindustry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyabodartha.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyabodartha.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasajhedaricertowner.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyasajhedaricertowner.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasajhedaricertdetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyasajhedaricertdetail.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasajhedariletter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyasajhedariletter.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banijyasajhedaricertletterowner.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>banijyasajhedaricertletterowner.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Content Include="closebanijyaletterhead.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industrycloseowner - Copy.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="banijyalettersomsodhan.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="frmNotification.resx">
+      <DependentUpon>frmNotification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryfileupload.resx">
+      <DependentUpon>industryfileupload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryreg_subforms.resx">
+      <DependentUpon>industryreg_subforms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="officeheaderbanijya.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>officeheaderbanijya.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="officebodartha.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>officebodartha.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyReportDisplayViewer.resx">
+      <DependentUpon>MonthlyReportDisplayViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="officemonthlyreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>officemonthlyreport.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="renewindustryletter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>renewindustryletter.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sanakhatindustrylagatkatta.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sanakhatindustrylagatkatta.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="globalfunction.resx">
+      <DependentUpon>globalfunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="homelogo.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industrycloseletter.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="industrybodartha.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>industrybodartha.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryletterup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>industryletterup.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryreg.resx">
+      <DependentUpon>industryreg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryreportmonthly.resx">
+      <DependentUpon>industryreportmonthly.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="industrysajhedarireport.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industrypralireport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>industrypralireport.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industrylaghureport.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="emailtoclient.resx">
+      <DependentUpon>emailtoclient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expiry.resx">
+      <DependentUpon>expiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firmclosebanijyaowner.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>firmclosebanijyaowner.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firmclosebanijyasearch.resx">
+      <DependentUpon>firmclosebanijyasearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industry.resx">
+      <DependentUpon>industry.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="industrycertificate.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="industryclose.resx">
+      <DependentUpon>industryclose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industrycloseletterhalf.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industrycloseletterviewer.resx">
+      <DependentUpon>industrycloseletterviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="industrycloseowner.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="industryclosesearch.resx">
+      <DependentUpon>industryclosesearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="industryletter.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industryletterowner.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="industrynaasari.resx">
+      <DependentUpon>industrynaasari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industrynameupdate.resx">
+      <DependentUpon>industrynameupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryowner.resx">
+      <DependentUpon>industryowner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryownerrpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>industryownerrpt.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Content Include="industryrecord.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industryrecordlaghu.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industryrecordpartner.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industryrecordprali.rpt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.en.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.ne.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industryrenew.resx">
+      <DependentUpon>industryrenew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industrysamsodhanviewr.resx">
+      <DependentUpon>industrysamsodhanviewr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industrysearchbydate.resx">
+      <DependentUpon>industrysearchbydate.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="industrysomsodhanletter.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="industrysomsodhanletterhead.rpt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="industrysomsodhanletterviewer.resx">
+      <DependentUpon>industrysomsodhanletterviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="industrysomsodhansearch.resx">
+      <DependentUpon>industrysomsodhansearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="letterview.resx">
+      <DependentUpon>letterview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="officeheader.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>officeheader.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="owendetailbanijya.ne.resx">
+      <DependentUpon>owendetailbanijya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="owendetailbanijya.resx">
+      <DependentUpon>owendetailbanijya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ownerindustry.resx">
+      <DependentUpon>ownerindustry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="previewtestreport.resx">
+      <DependentUpon>previewtestreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printcertificate.resx">
+      <DependentUpon>printcertificate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportdisplay.resx">
+      <DependentUpon>reportdisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportviewer.resx">
+      <DependentUpon>reportviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="restreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>restreport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptcert.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptcert.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="samsodhanrecord.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>samsodhanrecord.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sanakhatindustry.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sanakhatindustry.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sanakhatlagatkattapreview.resx">
+      <DependentUpon>sanakhatlagatkattapreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sanakhatprintview.resx">
+      <DependentUpon>sanakhatprintview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchbanijya.resx">
+      <DependentUpon>searchbanijya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchdetailbanijya.resx">
+      <DependentUpon>searchdetailbanijya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchindustry.resx">
+      <DependentUpon>searchindustry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchindustrydetailbyname.resx">
+      <DependentUpon>searchindustrydetailbyname.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setupfy.resx">
+      <DependentUpon>setupfy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup_ain.resx">
+      <DependentUpon>setup_ain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup_calendar.resx">
+      <DependentUpon>setup_calendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup_remoteserver.resx">
+      <DependentUpon>setup_remoteserver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seup_office.resx">
+      <DependentUpon>Seup_office.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="somsodhanviewer.resx">
+      <DependentUpon>somsodhanviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testbanijya.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>testbanijya.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatebanijyarecord.resx">
+      <DependentUpon>updatebanijyarecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateindustryrecord.resx">
+      <DependentUpon>updateindustryrecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vdcedit.resx">
+      <DependentUpon>vdcedit.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="banijyacertconnection.xsc">
+      <DependentUpon>banijyacertconnection.xsd</DependentUpon>
+    </None>
+    <None Include="banijyacertconnection.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="banijyacertconnection.xss">
+      <DependentUpon>banijyacertconnection.xsd</DependentUpon>
+    </None>
+    <None Include="banijyafirmcloseconn.xsc">
+      <DependentUpon>banijyafirmcloseconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="banijyafirmcloseconn.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>banijyafirmcloseconn.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="banijyafirmcloseconn.xss">
+      <DependentUpon>banijyafirmcloseconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrycloseconn.xsc">
+      <DependentUpon>industrycloseconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrycloseconn.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>industrycloseconn.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrycloseconn.xss">
+      <DependentUpon>industrycloseconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrysomsodhanconn.xsc">
+      <DependentUpon>industrysomsodhanconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrysomsodhanconn.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>industrysomsodhanconn.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrysomsodhanconn.xss">
+      <DependentUpon>industrysomsodhanconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="NewCertificate.xsc">
+      <DependentUpon>NewCertificate.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="NewCertificate.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NewCertificate.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="NewCertificate.xss">
+      <DependentUpon>NewCertificate.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="pramanpatra.xsc">
+      <DependentUpon>pramanpatra.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="pramanpatra.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="pramanpatra.xss">
+      <DependentUpon>pramanpatra.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="samsodhaconn.xsc">
+      <DependentUpon>samsodhaconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="samsodhaconn.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="samsodhaconn.xss">
+      <DependentUpon>samsodhaconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrydataset.xsc">
+      <DependentUpon>industrydataset.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrydataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industrydataset.xss">
+      <DependentUpon>industrydataset.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industryletterconn.xsc">
+      <DependentUpon>industryletterconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industryletterconn.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>industryletterconn.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="industryletterconn.xss">
+      <DependentUpon>industryletterconn.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logogov.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginicon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Model-Hospital.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\active.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,KB2468871">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29 and Update for .NET Framework 4 %28KB2468871%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.11.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Report Viewer 2012 Runtime</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="homeicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Document\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSHTML">
+      <Guid>{3050F1C5-98B5-11CF-BB82-00AA00BDCE0B}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

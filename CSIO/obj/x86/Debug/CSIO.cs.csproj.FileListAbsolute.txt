@@ -1,0 +1,742 @@
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industrycloseletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industrysajhedarireport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industrypralireport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryletterowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryrecord.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryrecordlaghu.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryrecordpartner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryrecordprali.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industrysomsodhanletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industrysomsodhanletterhead.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyacertdetail.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyacertowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyacloseletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyaletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyaletterowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\officeheaderlandscape.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\officemonthlyreport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryownerrpt.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\officeheader.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\samsodhanrecord.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\sanakhatindustry.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyacertdetail.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyacertowner.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyacloseletter.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\banijyaletterowner.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\officeheaderlandscape.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\officemonthlyreport.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industrypralireport.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\officeheader.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryownerrpt.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\samsodhanrecord.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\sanakhatindustry.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industrylaghureport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryletterup.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\industryletterup.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\Properties\AssemblyInfo.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\app.config
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\CSIO.exe.config
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\CSIO.exe.manifest
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\CSIO.application
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\CSIO.exe
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\CSIO.pdb
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\en\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\ne\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\Interop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.ResolveComReference.cache
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.About.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.adduser.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.backscreen.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyabranchadd.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmclose.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmcloseletterview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmrenew.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyaform.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyaforminfo.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyaletterview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyanamsari.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyasamsodhan.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyasearchbydate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.banijyasomsodhansearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.capitalupdatebanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.capitalupdateindustry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaaddress.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaname.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changeelectriccapacity.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changeindustryaddress.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changeindustryname.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changepassword.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changescopebanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.changescopeindustry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.MonthlyReportDisplayViewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.globalfunction.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industryfileupload.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industryreg.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industryreportmonthly.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.emailtoclient.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.expiry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.firmclosebanijyasearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industryclose.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industrycloseletterviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industryclosesearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industrynaasari.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industrynameupdate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industryowner.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.login.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.configurationset.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.usersetting.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.Form4.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.home.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industryrenew.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industrysamsodhanviewr.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industrysearchbydate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhanletterviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhansearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.letterview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.ownerindustry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.previewtestreport.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.printcertificate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.Properties.Resources.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.reportdisplay.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.reportviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.sanakhatlagatkattapreview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.sanakhatprintview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.searchbanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.searchdetailbanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.bodartha_txt2.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.searchindustrydetailbyname.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.setup_ain.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.setup_calendar.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.somsodhanviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.updateindustryrecord.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.vdcedit.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.home.en.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.home.ne.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.ne.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.GenerateResource.Cache
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\en\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\ne\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.exe.manifest
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.application
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.exe
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.pdb
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\PROJECT\CSIO-MIS\CSIO\obj\x86\Debug\CSIO.cs.csprojResolveAssemblyReference.cache
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.AssemblyReference.cache
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.About.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.adduser.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.backscreen.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.backupdatabase.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyabranchadd.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmclose.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmcloseletterview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmrenew.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaform.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaforminfo.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaletterview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyanamsari.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasamsodhan.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasearchbydate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasomsodhansearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.capitalupdatebanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.capitalupdateindustry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaaddress.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaname.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeelectriccapacity.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeindustryaddress.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeindustryname.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changepassword.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changescopebanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changescopeindustry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.MonthlyReportDisplayViewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.globalfunction.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryfileupload.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreg.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreportmonthly.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.emailtoclient.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.expiry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryclose.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrycloseletterviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryclosesearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrynaasari.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrynameupdate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryowner.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.login.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.configurationset.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.usersetting.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Form4.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryrenew.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysamsodhanviewr.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysearchbydate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhanletterviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhansearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.letterview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.ownerindustry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.previewtestreport.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.printcertificate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Properties.Resources.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.reportdisplay.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.reportviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.sanakhatlagatkattapreview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.sanakhatprintview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchbanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchdetailbanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.bodartha_txt2.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchindustrydetailbyname.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setup_ain.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setup_calendar.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.somsodhanviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.updatebanijyarecord.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.updateindustryrecord.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.vdcedit.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.en.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.ne.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.ne.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.GenerateResource.cache
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.CoreCompileInputs.cache
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.exe
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.pdb
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyacertdetail.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyacertowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyacloseletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyaletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyaletterowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertdetail.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyasajhedariletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertletterowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyacertdetail.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyacertowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyacloseletter.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyaletterowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertdetail.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertletterowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industrysajhedarireport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industrypralireport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryletterowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryrecord.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryrecordlaghu.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryrecordpartner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryrecordprali.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanletterhead.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officemonthlyreport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryownerrpt.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\samsodhanrecord.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\sanakhatindustry.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officemonthlyreport.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industrypralireport.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryownerrpt.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\samsodhanrecord.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\sanakhatindustry.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industrycloseletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industrylaghureport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officeheaderbanijya.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officeheaderlandscape.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryletterup.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officeheader.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officeheaderbanijya.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officeheaderlandscape.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\industryletterup.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\officeheader.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\app.config
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CSIO.exe.config
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CSIO.exe.manifest
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CSIO.application
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CSIO.exe
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CSIO.pdb
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\en\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\ne\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\MySql.Data.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\MySqlBackup.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\stdole.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\en\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\ne\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.exe.manifest
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.application
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.CopyComplete
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\closebanijyaletterhead.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmclosesearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\banijyalettersomsodhan.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project\CSIO_MIS\CSIO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industrysajhedarireport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industrypralireport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryletterowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryrecord.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryrecordlaghu.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryrecordpartner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryrecordprali.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanletterhead.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyacertdetail.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyacertowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyacloseletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyaletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyaletterowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertdetail.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasajhedariletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertletterowner.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officemonthlyreport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryownerrpt.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\samsodhanrecord.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\sanakhatindustry.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyacertdetail.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyacertowner.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyacloseletter.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyaletterowner.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertowner.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertdetail.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertletterowner.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officemonthlyreport.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industrypralireport.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryownerrpt.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\samsodhanrecord.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\sanakhatindustry.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industrycloseletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industrylaghureport.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryletter.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officeheaderbanijya.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officeheaderlandscape.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryletterup.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officeheader.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officeheaderbanijya.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officeheaderlandscape.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\industryletterup.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\officeheader.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\Properties\AssemblyInfo.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\app.config
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CSIO.exe.config
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CSIO.exe.manifest
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CSIO.application
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CSIO.exe
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CSIO.pdb
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\en\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\ne\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Shared.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\MySql.Data.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\MySqlBackup.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Web.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\AxShockwaveFlashObjects.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\ShockwaveFlashObjects.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\stdole.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\Interop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.AssemblyReference.cache
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.ResolveComReference.cache
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.About.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.adduser.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.backscreen.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.backupdatabase.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyabranchadd.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmclose.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmcloseletterview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmrenew.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaform.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaforminfo.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaletterview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyanamsari.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasamsodhan.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasearchbydate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasomsodhansearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.capitalupdatebanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.capitalupdateindustry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaaddress.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaname.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeelectriccapacity.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeindustryaddress.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeindustryname.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changepassword.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changescopebanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changescopeindustry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.MonthlyReportDisplayViewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.globalfunction.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryfileupload.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreg.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreportmonthly.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.emailtoclient.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.expiry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.firmclosebanijyasearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryclose.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrycloseletterviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryclosesearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrynaasari.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrynameupdate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryowner.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.login.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.configurationset.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.usersetting.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Form4.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryrenew.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysamsodhanviewr.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysearchbydate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhanletterviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhansearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.letterview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.ownerindustry.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.previewtestreport.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.printcertificate.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Properties.Resources.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.reportdisplay.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.reportviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.sanakhatlagatkattapreview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.sanakhatprintview.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchbanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchdetailbanijya.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.bodartha_txt2.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchindustrydetailbyname.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setup_ain.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setup_calendar.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.somsodhanviewer.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.updatebanijyarecord.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.updateindustryrecord.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.vdcedit.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.en.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.ne.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.ne.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.GenerateResource.cache
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.CoreCompileInputs.cache
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\en\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\ne\CSIO.resources.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.exe.manifest
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.application
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.CopyComplete
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.exe
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.pdb
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmclosesearch.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyalettersomsodhan.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\closebanijyaletterhead.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyalettertransfer.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasamsodhanletterhead.rpt
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\banijyasamsodhanletterhead.cs
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyareportmonthly.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreg_subforms.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setupfy.resources
+D:\RAGHU\Aakar e Solution\Projects\MoITFE Gandaki - MIS\NewProject\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Seup_office.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyalettertransfer.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyalettersomsodhan.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletterowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryrecordlaghu.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryrecordpartner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryrecordprali.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyacertdetail.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyacertowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyacloseletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyaletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyaletterowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertdetail.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasajhedariletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertletterowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\officemonthlyreport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryownerrpt.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyacertdetail.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyacertowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyacloseletter.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyaletterowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertdetail.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasajhedaricertletterowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\officemonthlyreport.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryownerrpt.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\rptcert.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrysajhedarireport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrypralireport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryrecord.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\rptcert.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrypralireport.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\closebanijyaletterhead.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrylaghureport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanletterhead.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasamsodhanletterhead.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\officeheaderbanijya.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\officebodartha.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\renewindustryletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletterup.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\officeheader.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\samsodhanrecord.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\sanakhatindustry.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasamsodhanletterhead.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\officeheaderbanijya.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\renewindustryletter.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\sanakhatindustrylagatkatta.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletterup.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\officeheader.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\samsodhanrecord.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\sanakhatindustry.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\app.config
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CSIO.exe.config
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CSIO.exe.manifest
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CSIO.application
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CSIO.exe
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CSIO.pdb
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\en\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\ne\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\MySql.Data.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\MySqlBackup.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\stdole.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.ResolveComReference.cache
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.About.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.adduser.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.backscreen.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.backupdatabase.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyabranchadd.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmclose.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmcloseletterview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmclosesearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyafirmrenew.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaform.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaforminfo.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyaletterview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyanamsari.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyareportmonthly.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasamsodhan.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasearchbydate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.banijyasomsodhansearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.capitalupdatebanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.capitalupdateindustry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaaddress.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changebanijyaname.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeelectriccapacity.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeindustryaddress.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changeindustryname.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changepassword.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changescopebanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.changescopeindustry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.frmNotification.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryfileupload.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreg_subforms.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.MonthlyReportDisplayViewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.globalfunction.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreg.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryreportmonthly.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.emailtoclient.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.expiry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.firmclosebanijyasearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryclose.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrycloseletterviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryclosesearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrynaasari.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrynameupdate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryowner.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.login.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.configurationset.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.usersetting.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Form4.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industryrenew.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysamsodhanviewr.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysearchbydate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhanletterviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.industrysomsodhansearch.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.letterview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.ownerindustry.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.previewtestreport.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.printcertificate.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Properties.Resources.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.reportdisplay.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.reportviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.sanakhatlagatkattapreview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.sanakhatprintview.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchbanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchdetailbanijya.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.SearchIndustryCertLetter.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.searchindustrydetailbyname.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setupfy.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setup_ain.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setup_calendar.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.setup_remoteserver.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.Seup_office.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.somsodhanviewer.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.updatebanijyarecord.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.updateindustryrecord.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.vdcedit.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.en.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.home.ne.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.owendetailbanijya.ne.resources
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.GenerateResource.cache
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.CoreCompileInputs.cache
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\en\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\ne\CSIO.resources.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.exe.manifest
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.application
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.CopyComplete
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.exe
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.pdb
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\crdb_adoplus.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Google.Protobuf.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Buffers.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Memory.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\ZstdNet.dll
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Google.Protobuf.pdb
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\Google.Protobuf.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\MySql.Data.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Buffers.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Memory.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseowner - Copy.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\homelogo.ico
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycertificate.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasomsodhanletter.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrybodartha.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\firmclosebanijyaowner.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseletterhalf.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\restreport.rpt
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyafirmcloseconn.Designer.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyasomsodhanletter.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\reportprintdataset.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\reportprintdataset.Designer.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrybodartha.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\firmclosebanijyaowner.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseconn.Designer.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanconn.Designer.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\NewCertificate.Designer.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\pramanpatra.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\restreport.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletterconn.Designer.cs
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\reportprintdataset.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\reportprintdataset.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\reportprintdataset.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyafirmcloseconn.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyafirmcloseconn.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\banijyafirmcloseconn.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseconn.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseconn.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrycloseconn.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanconn.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanconn.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrysomsodhanconn.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\NewCertificate.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\NewCertificate.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\NewCertificate.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\pramanpatra.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\pramanpatra.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\pramanpatra.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\samsodhaconn.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\samsodhaconn.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\samsodhaconn.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrydataset.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrydataset.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industrydataset.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletterconn.xsc
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletterconn.xsd
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\bin\Debug\industryletterconn.xss
+C:\Users\anil thapa\Desktop\CSIO_Project_Working\CSIO_MIS\CSIO\obj\x86\Debug\CSIO.cs.csproj.AssemblyReference.cache
