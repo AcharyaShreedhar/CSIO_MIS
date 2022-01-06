@@ -67,15 +67,16 @@ namespace CSIO
             }
 
            // SqlDataAdapter qrey = new SqlDataAdapter("SELECT     VDC_SID, DistCode, VdcNepnam FROM         setup_vdc WHERE     (DistCode = '" + district_combo.SelectedValue + "' )", con);
-            MySqlDataAdapter qrey = new MySqlDataAdapter("SELECT     VDC_SID, DistCode,VdcCode As 'कोड न', VdcNepnam AS 'गा वि स / न पा', Vdcname As 'अ‌ग्रेजी नाम',Vdcunicodename As 'यूनिकोडमा नाम' FROM         setup_vdc where DistCode='"+district_combo.SelectedValue+"'", sqlcon.con);
+            MySqlDataAdapter qrey = new MySqlDataAdapter("SELECT VDC_SID, DistCode,VdcCode As 'कोड न', VdcNepnam AS 'गा वि स / न पा', Vdcunicodename As 'स्थानीय तहको नाम (नेपाली)', Vdcname As 'स्थानीय तहको नाम (अंग्रेजी)' FROM setup_vdc where DistCode='" + district_combo.SelectedValue+"'", sqlcon.con);
            
             DataTable tb = new DataTable();
             qrey.Fill(tb);
             dataGridView1.DataSource = tb;
             dataGridView1.Columns[0].Visible = false;
             dataGridView1.Columns[1].Visible = false;
-          //  dataGridView1.Columns[3].Visible = false;
-
+            dataGridView1.Columns[3].Visible = false;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.Columns[2].Width = 60;
             sqlcon.con.Close();
 
         }
@@ -92,7 +93,7 @@ namespace CSIO
             MySqlDataAdapter adapter = new MySqlDataAdapter();
             DataSet ds = new DataSet();
             //string sql = "SELECT    MAX(VDC_SID)+1 FROM         setup_vdc";
-            string sql = "SELECT    MAX(VdcCode)+1 FROM         setup_vdc where DistCode='"+district_combo.SelectedValue+"'";
+            string sql = "SELECT    MAX(VdcCode)+1 FROM setup_vdc where DistCode='"+district_combo.SelectedValue+"'";
 
 
             //string sql = "SELECT VdcCode, VdcNepnam FROM setup_vdc where setup_vdc.DistCode='" + comboBox3.ValueMember + "'";
@@ -129,7 +130,7 @@ namespace CSIO
             FillDropDownList(combData);
             district_combo.AutoCompleteCustomSource = combData;
 
-           // district_combo.SelectedValue = 40;
+           //district_combo.SelectedValue = 40;
         }
 
         private void district_combo_SelectedIndexChanged(object sender, EventArgs e)
@@ -166,7 +167,7 @@ namespace CSIO
             MySqlCommand command;
             MySqlDataAdapter adapter = new MySqlDataAdapter();
             DataSet ds = new DataSet();
-            string sql = "SELECT    MAX(VDC_SID)+1 FROM         setup_vdc";
+            string sql = "SELECT    MAX(VDC_SID)+1 FROM setup_vdc";
             //string sqlvdc = "SELECT    MAX(VdcCode)+1 FROM         setup_vdc where DistCode='"+district_combo.SelectedValue+"'";
 
 
@@ -196,21 +197,6 @@ namespace CSIO
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
-        }
-        public void cleardata(){
-            vdcid.Text = null;
-
-
-
-
-            vdc_eng.Text = null;
-            vdc_nep.Text = null;
-            unicode_txt.Text = null;
-        }
-        private void dataGridView1_RowHeaderMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
-        {
-
             button4.Enabled = false;
             button2.Enabled = false;
             button3.Enabled = true;
@@ -227,15 +213,21 @@ namespace CSIO
             //textBox4.Text = " ";
             i = dataGridView1.CurrentRow.Index;
             vdcid.Text = dataGridView1.Rows[i].Cells[0].Value.ToString();
-
-
-
-
-            vdc_eng.Text = dataGridView1.Rows[i].Cells[4].Value.ToString();
             vdc_nep.Text = dataGridView1.Rows[i].Cells[3].Value.ToString();
-           unicode_txt.Text = dataGridView1.Rows[i].Cells[5].Value.ToString();
-          //  district(dataGridView1.Rows[i].Cells[3].Value.ToString());
+            unicode_txt.Text = dataGridView1.Rows[i].Cells[4].Value.ToString();
+            vdc_eng.Text = dataGridView1.Rows[i].Cells[5].Value.ToString();
 
+            //  district(dataGridView1.Rows[i].Cells[3].Value.ToString());
+        }
+
+        public void cleardata(){
+            vdcid.Text = null;
+            vdc_eng.Text = null;
+            vdc_nep.Text = null;
+            unicode_txt.Text = null;
+        }
+        private void dataGridView1_RowHeaderMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
 
         }
 
