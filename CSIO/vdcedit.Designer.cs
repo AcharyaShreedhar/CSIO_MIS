@@ -55,25 +55,23 @@
             // 
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.Transparent;
-            this.label11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label11.Font = new System.Drawing.Font("Kalimati", 12F);
-            this.label11.Location = new System.Drawing.Point(13, 52);
+            this.label11.Location = new System.Drawing.Point(18, 54);
             this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(66, 29);
+            this.label11.Size = new System.Drawing.Size(64, 27);
             this.label11.TabIndex = 54;
             this.label11.Text = "जिल्ला :";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // district_combo
             // 
-            this.district_combo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.district_combo.Font = new System.Drawing.Font("Kalimati", 12F);
             this.district_combo.FormattingEnabled = true;
-            this.district_combo.Location = new System.Drawing.Point(87, 50);
+            this.district_combo.Location = new System.Drawing.Point(85, 50);
             this.district_combo.Margin = new System.Windows.Forms.Padding(4);
             this.district_combo.Name = "district_combo";
-            this.district_combo.Size = new System.Drawing.Size(192, 35);
+            this.district_combo.Size = new System.Drawing.Size(252, 35);
             this.district_combo.TabIndex = 53;
             this.district_combo.SelectedIndexChanged += new System.EventHandler(this.district_combo_SelectedIndexChanged);
             this.district_combo.ValueMemberChanged += new System.EventHandler(this.district_combo_ValueMemberChanged);
@@ -81,11 +79,11 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Kalimati", 12F);
+            this.label6.Font = new System.Drawing.Font("Noto Sans", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label6.Location = new System.Drawing.Point(12, 9);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(354, 27);
+            this.label6.Size = new System.Drawing.Size(342, 22);
             this.label6.TabIndex = 55;
             this.label6.Text = "जिल्ला अनुसार स्थानीय निकाय थप/ संशोधन गर्नुहोस";
             // 
@@ -97,14 +95,15 @@
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Kalimati", 12F);
             this.dataGridView1.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(407, 50);
+            this.dataGridView1.Location = new System.Drawing.Point(470, 50);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.RowHeadersVisible = false;
             dataGridViewCellStyle2.Font = new System.Drawing.Font("Kalimati", 12F);
             this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle2;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(439, 315);
+            this.dataGridView1.Size = new System.Drawing.Size(414, 393);
             this.dataGridView1.TabIndex = 56;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             this.dataGridView1.RowHeaderMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_RowHeaderMouseDoubleClick);
@@ -116,7 +115,7 @@
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button1.Image = global::CSIO.Properties.Resources.search3;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(286, 50);
+            this.button1.Location = new System.Drawing.Point(344, 50);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(112, 35);
             this.button1.TabIndex = 57;
@@ -129,15 +128,14 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Honeydew;
-            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label1.Font = new System.Drawing.Font("Kalimati", 12F);
             this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label1.Location = new System.Drawing.Point(66, 32);
+            this.label1.Location = new System.Drawing.Point(11, 37);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(130, 29);
+            this.label1.Size = new System.Drawing.Size(171, 27);
             this.label1.TabIndex = 58;
-            this.label1.Text = "गा.वि.स कोड न‌ :";
+            this.label1.Text = "स्थानीय तहको कोड न‌ :";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
@@ -145,63 +143,60 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Honeydew;
-            this.label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label2.Font = new System.Drawing.Font("Kalimati", 12F);
             this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Location = new System.Drawing.Point(16, 67);
+            this.label2.Location = new System.Drawing.Point(11, 123);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(180, 29);
+            this.label2.Size = new System.Drawing.Size(201, 27);
             this.label2.TabIndex = 59;
-            this.label2.Text = "गा.वि.स को अग्रेजी नाम :";
+            this.label2.Text = "स्थानीय तहको नाम (अग्रेजी):";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Honeydew;
-            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label3.Font = new System.Drawing.Font("Kalimati", 12F);
             this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label3.Location = new System.Drawing.Point(14, 103);
+            this.label3.Location = new System.Drawing.Point(11, 79);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(182, 29);
+            this.label3.Size = new System.Drawing.Size(203, 27);
             this.label3.TabIndex = 60;
-            this.label3.Text = "गा.वि.स को नेपाली नाम :";
+            this.label3.Text = "स्थानीय तहको नाम (नेपाली):";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // vdcid
             // 
             this.vdcid.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.vdcid.Location = new System.Drawing.Point(200, 32);
+            this.vdcid.Location = new System.Drawing.Point(214, 37);
             this.vdcid.Name = "vdcid";
             this.vdcid.ReadOnly = true;
-            this.vdcid.Size = new System.Drawing.Size(178, 26);
+            this.vdcid.Size = new System.Drawing.Size(223, 26);
             this.vdcid.TabIndex = 61;
             // 
             // vdc_eng
             // 
             this.vdc_eng.Font = new System.Drawing.Font("Kalimati", 12F);
-            this.vdc_eng.Location = new System.Drawing.Point(200, 64);
+            this.vdc_eng.Location = new System.Drawing.Point(214, 120);
             this.vdc_eng.Name = "vdc_eng";
-            this.vdc_eng.Size = new System.Drawing.Size(178, 34);
+            this.vdc_eng.Size = new System.Drawing.Size(223, 34);
             this.vdc_eng.TabIndex = 62;
             this.vdc_eng.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // vdc_nep
             // 
             this.vdc_nep.Font = new System.Drawing.Font("Kalimati", 12F);
-            this.vdc_nep.Location = new System.Drawing.Point(200, 101);
+            this.vdc_nep.Location = new System.Drawing.Point(226, 395);
             this.vdc_nep.Name = "vdc_nep";
-            this.vdc_nep.Size = new System.Drawing.Size(178, 34);
+            this.vdc_nep.Size = new System.Drawing.Size(223, 34);
             this.vdc_nep.TabIndex = 63;
+            this.vdc_nep.Visible = false;
             // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.unicode_txt);
-            this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Controls.Add(this.vdc_nep);
             this.groupBox1.Controls.Add(this.vdc_eng);
             this.groupBox1.Controls.Add(this.vdcid);
             this.groupBox1.Controls.Add(this.label3);
@@ -209,35 +204,35 @@
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Kalimati", 12F);
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.groupBox1.Location = new System.Drawing.Point(2, 101);
+            this.groupBox1.Location = new System.Drawing.Point(12, 101);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(396, 177);
+            this.groupBox1.Size = new System.Drawing.Size(444, 169);
             this.groupBox1.TabIndex = 64;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "गा.वि.स को विवरण";
+            this.groupBox1.Text = "स्थानीय तहको विवरण";
             // 
             // unicode_txt
             // 
             this.unicode_txt.Font = new System.Drawing.Font("Kalimati", 12F);
-            this.unicode_txt.Location = new System.Drawing.Point(199, 138);
+            this.unicode_txt.Location = new System.Drawing.Point(214, 76);
             this.unicode_txt.Name = "unicode_txt";
-            this.unicode_txt.Size = new System.Drawing.Size(178, 34);
+            this.unicode_txt.Size = new System.Drawing.Size(223, 34);
             this.unicode_txt.TabIndex = 65;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Honeydew;
-            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label4.Font = new System.Drawing.Font("Kalimati", 12F);
             this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label4.Location = new System.Drawing.Point(1, 141);
+            this.label4.Location = new System.Drawing.Point(23, 399);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(195, 29);
+            this.label4.Size = new System.Drawing.Size(180, 27);
             this.label4.TabIndex = 64;
-            this.label4.Text = "गा.वि.स को युनिकोड नाम :";
+            this.label4.Text = "गा.वि.स को नेपाली नाम :";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label4.Visible = false;
             // 
             // button2
             // 
@@ -246,9 +241,9 @@
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button2.Image = global::CSIO.Properties.Resources.add_icon_32;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.Location = new System.Drawing.Point(4, 284);
+            this.button2.Location = new System.Drawing.Point(12, 291);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(135, 36);
+            this.button2.Size = new System.Drawing.Size(147, 41);
             this.button2.TabIndex = 65;
             this.button2.Text = "नयाँ थप्नुहोस";
             this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -262,11 +257,11 @@
             this.button3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button3.Image = global::CSIO.Properties.Resources.edit_icon;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(145, 284);
+            this.button3.Location = new System.Drawing.Point(178, 291);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(116, 36);
+            this.button3.Size = new System.Drawing.Size(117, 41);
             this.button3.TabIndex = 66;
-            this.button3.Text = " सम्शोधन ";
+            this.button3.Text = "संशोधन";
             this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -278,9 +273,9 @@
             this.button4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button4.Image = global::CSIO.Properties.Resources.save_icon_24;
             this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.Location = new System.Drawing.Point(267, 284);
+            this.button4.Location = new System.Drawing.Point(316, 291);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(113, 36);
+            this.button4.Size = new System.Drawing.Size(140, 41);
             this.button4.TabIndex = 67;
             this.button4.Text = "सेभ गर्नुहोस";
             this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -292,9 +287,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.Honeydew;
-            this.ClientSize = new System.Drawing.Size(858, 379);
+            this.ClientSize = new System.Drawing.Size(896, 457);
             this.Controls.Add(this.button4);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.button3);
+            this.Controls.Add(this.vdc_nep);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.button1);
